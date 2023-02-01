@@ -1,0 +1,35 @@
+table { 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    table-layout: fixed;
+    display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  padding:150px;
+    
+} 
+input[type="button"] { 
+    width: 100%; 
+    padding: 20px 40px; 
+    background:lightcoral; 
+    color: black; 
+    font-size: 24px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 10px; 
+} 
+input[type="text"] { 
+    padding: 20px 30px; 
+    font-size: 29.2px; 
+    font-weight: bold; 
+    border: none; 
+    border-radius: 10px; 
+    border: 2px solid black; 
+} 
